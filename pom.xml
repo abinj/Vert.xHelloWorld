@@ -63,7 +63,7 @@
                                         implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer"/>
                                 <transformer
                                         implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>com.dexlock.tralcer.application.UserOperationApplication</mainClass>
+                                    <mainClass>com.abinj.vertxhelloworld.application.MainApplication</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>

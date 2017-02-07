@@ -16,3 +16,21 @@ An introduction project for Vert.x tool
  Vert.x is simple but not simplistic. Vert.x allows you to create powerful apps, simply.
  
  Vert.x is an ideal choice for creating light-weight, high-performance, microservices.
+ 
+# How to run?
+ Get into the project directory first then try the following commands
+ 
+ 1) mvn clean package
+ 2) java -jar <path of the .jar file>
+ (You can find out the .jar file from the target directory after the first command)
+ 
+ 
+# Resources
+ 1) http://vertx.io/
+ 2) https://github.com/vert-x3/vertx-examples
+ 
+ 
+ 
+ 
+ Enjoy Coding!!!!!!
+ 
